@@ -1,0 +1,7 @@
+Post ID,Article Title,Platform,Planned Draft Date,Review Date,Publication Date,Current Status,Assigned Owner,Reminder Status
+POST-01,Build and Test Your First Python REST API: A Beginner-Friendly Guide,Dev.to / GitHub,2026-10-12,2026-10-15,2026-10-18,Technical Review,Student Lead,Pending
+POST-02,5 Python Testing Mistakes Beginners Should Avoid,Medium / Dev.to,2026-10-14,2026-10-17,2026-10-20,Drafting,QA Reviewer,Pending
+POST-03,How to Use AI to Review Code Without Trusting It Blindly,LinkedIn / Substack,2026-10-16,2026-10-19,2026-10-22,Research,Ethics Analyst,Pending
+POST-04,Demystifying pytest Fixtures for Academic Projects,Hashnode,2026-10-25,2026-10-28,2026-11-01,Idea,Technical Writer,Pending
+POST-05,OWASP Top 10 for Student Web Applications,Personal Blog,2026-10-01,2026-10-04,2026-10-08,Published,Security Lead,Completed
+POST-06,Malformed Date Example for Automation Safety Test,Test Platform,invalid-date,2026-10-30,2026-11-05,Drafting,QA Lead,Pending
